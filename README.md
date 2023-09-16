@@ -16,6 +16,7 @@ CryptoGuard Pro requires Python 3 and the `pycryptodome` library. You can instal
 
 ```bash
 pip install pycryptodome
+```bash
 
 How to Use
 Run the CryptoGuard Pro.py script.
